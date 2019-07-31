@@ -4,10 +4,10 @@ In this project I used Python and its libraries to gather data from a variety of
 
 Our job on this project is to wrangle the data which consists of:
 * Gather data
-*Assess data
-*Clean data
-*Storing, analyzing, and visualizing the wrangled data
-*Reporting on
+* Assess data
+* Clean data
+* Storing, analyzing, and visualizing the wrangled data
+* Reporting on
   * Data wrangling
   * Data analyzing and visualizations
 
