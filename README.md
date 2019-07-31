@@ -33,7 +33,7 @@ The following packages (libraries) were used to generate this analys.
 * NumPy
 * requests
 * tweepy
-* son
+* JSON
 
 ## Authors
 
